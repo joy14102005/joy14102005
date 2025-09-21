@@ -1,3 +1,9 @@
+<!-- 🚀 Banner -->
+![Joycemary Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Joycemary%20|%20AI%20&%20Full-Stack%20Explorer%20🚀&fontSize=28&fontAlignY=35&animation=twinkling)
+
+<!-- 🌌 Alternate Neon Banner -->
+![Neon Banner](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Joycemary+|+AI+%26+Full-Stack+Explorer;💡+Creating+AI-powered+tools+that+make+life+easier;⚡+Coding+for+a+better+tomorrow!)
+
 # Hi there 👋 I'm Joycemary  
 
 💻 **Aspiring Software Engineer | Problem Solver | Tech Explorer**  
