@@ -13,7 +13,7 @@
 
 ## 🔧 IDE and Tools I Use  
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,figma,ps,xd,notion" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,ps,xd,notion,git,github" />
 </p>
 
 ---
@@ -33,23 +33,21 @@
 ---
 
 ## 🌟 Competitive Programming  
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Source%20Code%20Pro&ext=contest)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/JoyceMary?theme=dark&font=Source%20Code%20Pro&ext=contest)  
 
 ---
 
 ## 🌐 Social Presence  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourProfile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-mary-718b2735a)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___.joyceee.___/?hl=en)  
 
 ---
 
 ## 🛠️ I Code In  
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,bootstrap,react,nodejs,mysql,mongodb,tensorflow,firebase" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mongodb,express,react,nodejs,figma" />
 </p>
 
 ---
 
 ✨ *“I don’t just code apps — I code for a better tomorrow.”*  
-
